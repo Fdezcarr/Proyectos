@@ -1,8 +1,10 @@
 'use strict';
 
-var carrito = () => {
-  console.log('Carrito funcionando con cambios');
-};
+console.log('Soy codigo que se ejecuta desde el archivo empty export');
 
-console.log('Archivo inicial');
-carrito();
+const correo = ' correo@correo.com';
+
+//FORMAS DE IMPORTAR
+
+
+console.log(correo);
