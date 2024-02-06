@@ -31,5 +31,5 @@ class Usuario {
 const usuario = new Usuario('Adrian', 'Fernández');
 console.log(usuario.obtenerNombreCompleto());
 
-const usuario2 = new Usuario('Adrian', 'Fernández');
+const usuario2 = new Usuario('imane', 'dahman');
 console.log(usuario2.obtenerNombreCompleto());
